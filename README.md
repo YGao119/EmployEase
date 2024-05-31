@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-Deploy Link: [Employ Ease](https://employ-ease.vercel.app/)
+Deploy Link:  [EmployEase](https://employ-ease.vercel.app/)
